@@ -1,0 +1,25 @@
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\NUnit.VisualStudio.TestAdapter.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\Mono.Cecil.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\Mono.Cecil.Mdb.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\Mono.Cecil.Pdb.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\Mono.Cecil.Rocks.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\nunit.core.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\nunit.core.interfaces.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\nunit.util.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\Integration Testing.exe
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\Integration Testing.deps.json
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\Integration Testing.runtimeconfig.json
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\Integration Testing.runtimeconfig.dev.json
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\Integration Testing.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\Integration Testing.pdb
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\netcoreapp3.1\Integration Testing.csprojAssemblyReference.cache
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\netcoreapp3.1\Integration Testing.AssemblyInfoInputs.cache
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\netcoreapp3.1\Integration Testing.AssemblyInfo.cs
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\netcoreapp3.1\Integration Testing.csproj.CoreCompileInputs.cache
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\netcoreapp3.1\Integration Testing.csproj.CopyComplete
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\netcoreapp3.1\Integration Testing.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\netcoreapp3.1\Integration Testing.pdb
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\netcoreapp3.1\Integration Testing.genruntimeconfig.cache

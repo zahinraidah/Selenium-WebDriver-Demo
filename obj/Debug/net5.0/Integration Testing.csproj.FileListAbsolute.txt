@@ -1,0 +1,20 @@
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\net5.0\NUnit.VisualStudio.TestAdapter.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\net5.0\Mono.Cecil.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\net5.0\Mono.Cecil.Mdb.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\net5.0\Mono.Cecil.Pdb.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\net5.0\Mono.Cecil.Rocks.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\net5.0\nunit.core.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\net5.0\nunit.core.interfaces.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\net5.0\nunit.util.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\net5.0\Integration Testing.deps.json
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\net5.0\Integration Testing.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\net5.0\ref\Integration Testing.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\bin\Debug\net5.0\Integration Testing.pdb
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\net5.0\Integration Testing.csprojAssemblyReference.cache
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\net5.0\Integration Testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\net5.0\Integration Testing.AssemblyInfoInputs.cache
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\net5.0\Integration Testing.AssemblyInfo.cs
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\net5.0\Integration Testing.csproj.CoreCompileInputs.cache
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\net5.0\Integration Testing.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\net5.0\ref\Integration Testing.dll
+D:\3-2\SWE 4604 (Testing Lab)\Lab 8\Integrationtesting\obj\Debug\net5.0\Integration Testing.pdb
