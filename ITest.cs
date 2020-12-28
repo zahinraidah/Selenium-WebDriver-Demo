@@ -10,7 +10,7 @@ namespace Integration_Testing
         [SetUp]
         public void startBrowser()
         {
-            driver = new ChromeDriver();
+            driver = new ChromeDriver(@"D:\3-2\SWE 4604 (Testing Lab)\Lab 8");
         }
         [Test]
         public void test()
